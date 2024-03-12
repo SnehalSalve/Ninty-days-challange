@@ -1,0 +1,12 @@
+🚀 Day 1 of the 90 Days Coding Challenge! 🚀
+
+Excited to kick off my journey into the world of frontend development! 🎉 Today marks Day 1 of my 90-day challenge where I'll be diving deep into HTML, CSS, and JavaScript from scratch. 💻
+
+Goals for Today:
+1. Learn the basics of HTML structure and tags.
+2. Dive into CSS styling and layout techniques.
+3. Get hands-on with JavaScript fundamentals like variables, data types, and functions.
+
+I'm ready to roll up my sleeves and start building some cool projects! Stay tuned for updates on my progress.
+Let's do this! 💪
+#90DaysOfCode #FrontendDevelopment #HTML #CSS #JavaScript #LearningJourney
